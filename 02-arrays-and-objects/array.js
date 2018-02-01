@@ -1,0 +1,2 @@
+// DO NOT MODIFY THIS FILE!
+var numbers=[1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9,0,1,2,3,4,5];numbers.sort();var animals=["alligator","bat","cat","dog","eel","fish","giraffe"],message=["Are","you","enjoying","arrays","yet?"],veggies=["apple","banana","carrot","date","eggplant"],threeMoreNumbers=[4,5,6],threeNumbers=[1,2,3];
